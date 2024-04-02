@@ -1,4 +1,4 @@
-
+//CLASSE DE CONTROLE DE PRODUTOS DA EMPRESA
 public class Produto {
 
 	private double peso;
